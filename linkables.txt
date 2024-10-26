@@ -1,0 +1,258 @@
+<td colspan=10><i>Did not qualify</i><td>0
+
+HEADER
+
+[ <b>General Information:</b> <a href="index.html">Main</a> | <a href="assocrank.html">Assoc Rank</a> | <a href="teamrank.html">Team Rank</a> | <a href="coefficient.html">Calculation</a> | <a href="archive.html">Archive</a> ]
+[ <b>2024-25</b>: <a href="2025entry.html">Entry</a> | <a href="2025qual.html">Rds 1 & 2</a> | <a href="2025group.html">Group Stage</a> | <a href="2025ko.html">Knockout</a> | <a href="2025assoc.html">Assoc Coeffs</a> ]<p>
+
+Country Linkables
+
+<a href="albania.html">Albania
+<a href="armenia.html">Armenia
+<a href="austria.html">Austria
+<a href="azer.html">Azerbaijan
+<a href="belarus.html">Belarus
+<a href="belgium.html">Belgium
+<a href="bosnia.html">Bosnia and<br>Herzegovina
+<a href="bulgaria.html">Bulgaria
+<a href="croatia.html">Croatia
+<a href="cyprus.html">Cyprus
+<a href="czechia.html">Czechia
+<a href="denmark.html">Denmark
+<a href="england.html">England
+<a href="estonia.html">Estonia
+<a href="faroe.html">Faroe Islands
+<a href="finland.html">Finland
+<a href="france.html">France
+<a href="georgia.html">Georgia
+<a href="germany.html">Germany
+<a href="greece.html">Greece
+<a href="hungary.html">Hungary
+<a href="iceland.html">Iceland
+<a href="irelandrep.html">Rep. of Ireland
+<a href="israel.html">Israel
+<a href="italy.html">Italy
+<a href="kazakhstan.html">Kazakhstan
+<a href="kosovo.html">Kosovo
+<a href="latvia.html">Latvia
+<a href="lithuania.html">Lithuania
+<a href="luxembourg.html">Luxembourg
+<a href="malta.html">Malta
+<a href="moldova.html">Moldova
+<a href="montenegro.html">Montenegro
+<a href="netherlands.html">Netherlands
+<a href="nmacedonia.html">North Macedonia
+<a href="nireland.html">Northern Ireland
+<a href="norway.html">Norway
+<a href="poland.html">Poland
+<a href="portugal.html">Portugal
+<a href="romania.html">Romania
+<a href="russia.html">Russia
+<a href="scotland.html">Scotland
+<a href="serbia.html">Serbia
+<a href="slovakia.html">Slovakia
+<a href="slovenia.html">Slovenia
+<a href="spain.html">Spain
+<a href="sweden.html">Sweden
+<a href="switzerland.html">Switzerland
+<a href="turkiye.html">Turkiye
+<a href="ukraine.html">Ukraine
+<a href="wales.html">Wales
+
+Abbreviated Country Linkables
+
+<a href="albania.html">ALB
+<a href="armenia.html">ARM
+<a href="austria.html">AUT
+<a href="azer.html">AZE
+<a href="belarus.html">BLR
+<a href="belgium.html">BEL
+<a href="bosnia.html">BIH
+<a href="bulgaria.html">BUL
+<a href="croatia.html">CRO
+<a href="cyprus.html">CYP
+<a href="czechia.html">CZE
+<a href="denmark.html">DEN
+<a href="england.html">ENG
+<a href="estonia.html">EST
+<a href="faroe.html">FRO
+<a href="finland.html">FIN
+<a href="france.html">FRA
+<a href="georgia.html">GEO
+<a href="germany.html">GER
+<a href="greece.html">GRE
+<a href="hungary.html">HUN
+<a href="iceland.html">ISL
+<a href="irelandrep.html">IRL
+<a href="israel.html">ISR
+<a href="italy.html">ITA
+<a href="kazakhstan.html">KAZ
+<a href="kosovo.html">KOS
+<a href="latvia.html">LVA
+<a href="lithuania.html">LTU
+<a href="luxembourg.html">LUX
+<a href="malta.html">MLT
+<a href="moldova.html">MDA
+<a href="montenegro.html">MNE
+<a href="netherlands.html">NED
+<a href="nmacedonia.html">MKD
+<a href="nireland.html">NIR
+<a href="norway.html">NOR
+<a href="poland.html">POL
+<a href="portugal.html">POR
+<a href="romania.html">ROU
+<a href="russia.html">RUS
+<a href="scotland.html">SCO
+<a href="serbia.html">SRB
+<a href="slovakia.html">SVK
+<a href="slovenia.html">SVN
+<a href="spain.html">ESP
+<a href="sweden.html">SWE
+<a href="switzerland.html">SUI
+<a href="turkiye.html">TUR
+<a href="ukraine.html">UKR
+<a href="wales.html">WAL
+
+
+Team Linkables
+
+<a href="albania.html#vllaznia">Vllaznia
+<a href="albania.html#ada">Ada
+
+<a href="armenia.html#hayasa">Hayasa
+<a href="armenia.html#alash">Alashkert
+<a href="armenia.html#pyunik">Pyunik
+
+<a href="austria.html#polten">St. Polten
+<a href="austria.html#sturm">Sturm Graz
+<a href="austria.html#first">First Vienna
+<a href="austria.html#land">Landhaus
+<a href="austria.html#neu">Neulengbach
+
+<a href="azer.html#neftci">Neftci
+
+<a href="belarus.html#dinamo">Dinamo Minsk
+<a href="belarus.html#fcminsk">FC Minsk
+
+<a href="belgium.html#ander">Anderlecht
+<a href="belgium.html#liege">Standard Liege
+<a href="belgium.html#truiden">Sint-Truiden
+
+<a href="bosnia.html#sfk">SFK 2000
+
+<a href="bulgaria.html#sofia">NSA Sofia
+<a href="bulgaria.html#stara">Lokomotiv Stara
+
+<a href="croatia.html#osijek">Osijek
+<a href="croatia.html#split">Split
+
+<a href="cyprus.html#apollon">Apollon
+<a href="cyprus.html#barcafa">Barcelona FA
+
+<a href="czechia.html#slavia">Slavia Praha
+<a href="czechia.html#slovacko">Slovacko
+<a href="czechia.html#sparta">Sparta Praha
+
+<a href="denmark.html">DEN
+
+<a href="england.html#arsenal">Arsenal
+<a href="england.html#chelsea">Chelsea
+<a href="england.html#mancity">Manchester City
+<a href="england.html#manu">Manchester United
+
+<a href="estonia.html">EST
+
+<a href="faroe.html#ki">KI
+<a href="faroe.html#skala">EB/Streymur/Skala
+
+<a href="finland.html#aland">Aland United
+<a href="finland.html#kups">KuPS
+<a href="finland.html#hjk">HJK
+<a href="finland.html#honka">Honka
+<a href="finland.html#vantaa">PK-35 Vantaa
+
+<a href="france.html#bord">Bordeaux
+<a href="france.html#lyon">Lyon
+<a href="france.html#parisfc">Paris FC
+<a href="france.html#psg">Paris SG
+<a href="france.html#psg">Paris St Germain
+
+<a href="georgia.html">GEO
+<a href="germany.html">GER
+<a href="greece.html">GRE
+<a href="hungary.html">HUN
+<a href="iceland.html">ISL
+<a href="irelandrep.html">IRL
+<a href="israel.html">ISR
+<a href="italy.html">ITA
+<a href="kazakhstan.html">KAZ
+	All references to Kazygurt become BIIK Shymkent
+<a href="kosovo.html">KOS
+<a href="latvia.html">LVA
+<a href="lithuania.html">LTU
+<a href="luxembourg.html">LUX
+<a href="malta.html">MLT
+<a href="moldova.html">MDA
+<a href="montenegro.html">MNE
+<a href="netherlands.html">NED
+<a href="nmacedonia.html">MKD
+<a href="nireland.html">NIR
+<a href="norway.html">NOR
+<a href="poland.html">POL
+<a href="portugal.html">POR
+<a href="romania.html">ROU
+<a href="russia.html">RUS
+<a href="scotland.html">SCO
+<a href="serbia.html">SRB
+<a href="slovakia.html">SVK
+<a href="slovenia.html">SVN
+
+<a href="spain.html#barca">Barcelona
+<a href="spain.html#atlmad">Atletico Madrid
+<a href="spain.html#realmad">Real Madrid
+<a href="spain.html#soci">Real Sociedad
+<a href="spain.html#levante">Levante
+
+<a href="sweden.html">SWE
+<a href="switzerland.html">SUI
+
+<a href="turkiye.html#alg">ALG Spor
+<a href="turkiye.html#besik">Besiktas
+<a href="turkiye.html#fomget">Fomget
+<a href="turkiye.html#galat">Galatasaray
+
+<a href="ukraine.html">UKR
+<a href="wales.html">WAL
+
+
+FOUR-TEAM MINI-TOURNAMENT
+
+<table class="tg" style="undefined;table-layout: fixed; width: 372px">
+<colgroup><col style="width: 150px"><col style="width: 50px"><col style="width: 20px"><col style="width: 150px"><col style="width: 50px"><col style="width: 40px"></colgroup>
+<thead>
+  <tr><th colspan="2">Semifinals</th><th></th><th colspan="2">Final</th><th>Pts</th></tr>
+</thead>
+<tbody>
+  <tr><td>Seeded 1</td><td>#</td><td></td>	<td>Winner A</td><td>#</td><td class=gen></td>  </tr>
+  <tr><td>Unseeded 1</td><td>#</td><td></td>	<td>Winner B</td><td>#</td><td class=gen></td>  </tr>
+  <tr>    <td colspan=3></td>    <th colspan="2">Third place</td>    <th>Pts</td>  </tr>
+  <tr><td>Seeded 2</td><td>#</td><td></td>	<td>Loser A</td><td>#</td><td class=out></td>  </tr>
+  <tr><td>Unseeded 2</td><td>#</td><td></td>	<td>Loser B</td><td>#</td><td class=out></td>  </tr>
+</tbody>
+</table>
+
+
+THREE-TEAM MINI-TOURNAMENT
+
+<table class="tg" style="undefined;table-layout: fixed; width: 372px">
+<colgroup><col style="width: 150px"><col style="width: 50px"><col style="width: 20px"><col style="width: 150px"><col style="width: 50px"><col style="width: 40px"></colgroup>
+<thead>
+  <tr><th colspan="2">Semifinal</th><th></th><th colspan="2">Final</th><th>Pts</th></tr>
+</thead>
+<tbody>
+  <tr><td>Lower seeded</td><td>#</td><td></td>	<td>Higher seeded</td><td>#</td><td class=gen></td>  </tr>
+  <tr><td>Unseeded</td><td>#</td><td></td>	<td>Winner SF</td><td>#</td><td class=gen></td>  </tr>
+  <tr>    <td colspan=3></td>    <th colspan="2">Third place</td>    <th>Pts</td>  </tr>
+<tr><td>Higher seeded</td><td>bye</td><td></td>	<td>Loser SF</td><td></td><td class=out>1.5</td>  </tr>
+</tbody>
+</table>
