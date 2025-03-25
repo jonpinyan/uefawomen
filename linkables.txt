@@ -256,3 +256,51 @@ THREE-TEAM MINI-TOURNAMENT
 <tr><td>Higher seeded</td><td>bye</td><td></td>	<td>Loser SF</td><td></td><td class=out>1.5</td>  </tr>
 </tbody>
 </table>
+
+
+
+8-TEAM KNOCKOUT
+
+<h3>Bracket</h3>
+<table class=sample>
+<colgroup><col style="width:1px"><col style="width:30px"><col style="width:150px"><col style="width:30px"><col style="width:30px"><col style="width:30px"><col style="width:5px"><col style="width:5px"><col style="width:150px"><col style="width:30px"><col style="width:30px"><col style="width:30px"><col style="width:5px"><col style="width:5px"><col style="width:150px"><col style="width:30px"><col style="width:1px">
+<tbody>
+<tr><td class=nb></td><td colspan="5" style=background-color:cyan>Quarterfinals</td>	<td colspan=2 class=nb></td><td colspan="4" style=background-color:tan>Semifinals</td>
+<td colspan=2 class=nb></td><td colspan="2" style=background-color:gold>Final</td><td class=nb></td></tr>	<tr><td colspan=17 class=nb style="height:10px">
+<tr><td class=nb style="height:7px"></td>
+	<td rowspan=2>A1<td rowspan="2">Quarterfinal 1A</td><td rowspan="2">#</td><td rowspan="2">#</td><th rowspan="2">Tot</th>
+<td rowspan="2" style="border-width:0 0 2px 0"></td><td rowspan="3" colspan="6" style="border-width:0"></td><td rowspan="9" colspan="4" style="border-width:0"></td></tr>
+<tr><td class=nb style="height:7px"></td></tr>
+<tr><td class=nb style="height:7px"></td>
+	<td rowspan=2>B2<td rowspan="2">Quarterfinal 1B</td><td rowspan="2">#</td><td rowspan="2">#</td><th rowspan="2">Tot</th>
+<td rowspan="2" style="border-style:solid;border-width:2px 2px 0 0"></td></tr>
+<tr><td class=nb style="height:7px"></td><td rowspan="2" style="border-style:solid;border-width:0 0 2px 0"></td>
+		<td rowspan="2">Semifinal 1A</td><td rowspan="2">0<td rowspan="2">#</td><th rowspan="2">Tot</th><td rowspan="2" style="border-style:solid;border-width:0 0 2px 0"></td></tr>
+<tr><td class=nb style="height:7px"></td><td class=nb rowspan="2" colspan="5" style="text-align:center"></td><td style="border-width:0 2px 0 0;border-style:solid"></td></tr>
+<tr><td class=nb style="height:7px"></td><td style="border-width:0 2px 0 0;border-style:solid"></td><td rowspan="2" style="border-style:solid;border-width:2px 0 0 0"></td>
+		<td rowspan="2">Semifinal 1B<td rowspan="2">0<td rowspan="2">#</td><th rowspan="2">Tot</th><td rowspan="2" style="border-style:solid;border-width:2px 2px 0 0"></td></tr>
+<tr><td class=nb style="height:7px"></td>
+	<td rowspan=2>D1<td rowspan=2>Quarterfinal 2A<td rowspan="2">0<td rowspan="2">#</td><th rowspan="2">Tot</th>
+<td rowspan="2" style="border-style:solid;border-width:0 2px 2px 0"></td></tr>
+<tr><td class=nb style="height:7px"></td><td rowspan="3" colspan="6" style="border-style:solid;border-width:0 2px 0 0"></td></tr>
+<tr><td class=nb style="height:7px"></td>
+	<td rowspan=2>A2<td rowspan=2>Quarterfinal 2B<td rowspan="2">0<td rowspan="2">#</td><th rowspan="2">Tot</th>
+<td rowspan="2" style="border-style:solid;border-width:2px 0 0 0"></td></tr>
+<tr><td class=nb style="height:7px"></td><td rowspan="2" style="border-style:solid;border-width:0 0 2px 0"></td>
+			<td rowspan=2>Grand Final A</td><th rowspan="2" class=ch>3</th><td rowspan="2" style="border-style:solid;border-width:0"></td></tr>
+<tr><td class=nb style="height:7px"></td><td class=nb rowspan="2" colspan=11 style="text-align:center"></td><td style="border-width:0 2px 0 0;border-style:solid"></td></tr>
+<tr><td class=nb style="height:7px"></td><td style="border-width:0 2px 0 0;border-style:solid"></td><td rowspan="2" style="border-style:solid;border-width:2px 0 0 0"></td>
+			<td rowspan=2>Grand Final B</td><th rowspan="2" class=ru>2</th><td rowspan="2" style="border-style:solid;border-width:0"></td></tr>
+<tr><td class=nb style="height:7px"></td>
+	<td rowspan=2>C1<td rowspan=2>Quarterfinal 3A</td><td rowspan=2>#</td><td rowspan=2>#</td><th rowspan=2>Tot</th><td rowspan=2 style="border-style:solid;border-width:0 0 2px 0"></td><td rowspan="3" colspan="6" style="border-style:solid;border-width:0 2px 0 0"></td></tr>
+<tr><td class=nb style="height:7px"></td><td rowspan="8" colspan="4" style="border-style:solid;border-width:0"></td></tr>
+<tr><td class=nb style="height:7px"></td>
+	<td rowspan=2>D2<td rowspan=2>Quarterfinal 3B</td><td rowspan="2">#</td><td rowspan="2">#</td><th rowspan="2">Tot</th><td rowspan="2" style="border-style:solid;border-width:2px 2px 0 0"></td></tr>
+<tr><td class=nb style="height:7px"></td><td rowspan="2" style="border-style:solid;border-width:0 0 2px 0"></td>
+		<td rowspan=2>Semifinal 2A<td rowspan="2">0<td rowspan="2">#</td><th rowspan="2">Tot</th><td rowspan="2" style="border-style:solid;border-width:0 2px 2px 0"></td></tr>
+<tr><td class=nb style="height:7px"></td><td class=nb rowspan="2" colspan="5" style="text-align:center"></td><td style="border-width:0 2px 0 0;border-style:solid"></td></tr>
+<tr><td class=nb style="height:7px"></td><td style="border-width:0 2px 0 0;border-style:solid"></td><td rowspan="2" style="border-style:solid;border-width:2px 0 0 0"></td>
+		<td rowspan=2>Semifinal 2B<td rowspan="2">0<td rowspan="2">#</td><th rowspan="2">Tot</th><td rowspan="2" style="border-style:solid;border-width:2px 0 0 0"></td></tr>
+<tr><td class=nb style="height:7px"></td><td rowspan=2>B1<td rowspan=2>Quarterfinal 4A<td rowspan="2">#</td><td rowspan="2">#</td><th rowspan="2">Tot</th><td rowspan="2" style="border-style:solid;border-width:0 2px 2px 0"></td></tr>
+<tr><td class=nb style="height:7px"></td><td rowspan="2" colspan="6" style="border-style:solid;border-width:0"></td></tr>
+<tr><td class=nb style="height:7px"></td><td rowspan=2>C2<td rowspan=2>Quarterfinal 4B<td rowspan="2">#</td><td rowspan="2">#</td><th rowspan="2">Tot</th><td style="border-style:solid;border-width:2px 0 0 0"></td></tr><tr></tbody></table>

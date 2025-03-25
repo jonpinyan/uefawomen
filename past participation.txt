@@ -498,3 +498,49 @@ Final - 2 for win, 1 for draw for single leg, no bonus for championship.
 2010 - National: 5 years, full points; Team: 5 years + 50% national coefficient
 2011 - Team coefficients based on 5 years + 33% national coefficient
 2021 - Team coefficients based on 5 years + 20% national coefficient
+2025 - Club coefficients based on 5 years OR 20% national coefficient
+
+
+
+
+UWCL Qualification
+R1 4th	3rd	2nd	R2 4th	3rd	2nd	R3 L	Main
+   0.5	1.0	1.5	   2.0	1.0 +E1	1.5 +E2	2 +E2	7 B
+
+UWEC Qualification
+R1 L	R2 L	Main
+1.5	2.0	2.5 B
+
+New revamping
+51-1
+done through 50 Armenia
+
+Team -> Club throughout except when referring to a single season performance.
+
+New Association table
+<table class="sample">
+<tbody><tr><th style="width:70px">Year</th><th style="width:50px">Spot<th style="width:150px">Team<th style="width:50px">Entry<th style="width:40px">Q1<th style="width:40px">Q2<th style="width:40px">Q3<br><span style="background-color:orange">EQ1<th class=e1 style="width:40px">EQ2<th style="width:60px">Qual Bonus<th style="width:100px">League Stage<th style="width:60px">Rank Bonus<th style="width:50px">R16<th style="width:50px">QF<th style="width:50px">SF<th style="width:50px">Final<th style="width:60px">Round Bonus<th style="width:100px">Team Total</th><th style="width:100px">Assoc Average</tr>
+<tr><th>2025-26<td>1<td align=left>
+</table><p>
+
+<h4>Five-Year Totals</h4>
+The numbers listed for each club in this table include the association coefficient contribution, and are rounded to one decimal place.<p>
+25 -> 25o
+
+<p>
+Clubs which have a positive club total, but which use the association floor, have their club totals shown in italics.<p>
+<table class="sample">
+<tbody><tr><th style="width:150px">Club</th><th style="width:40px">25n<th style="width:40px">26
+<tr><th>Association Coeff	<td>
+<tr><th>Association Rank	<td>
+<tr><th>Association Floor	<td>
+<tr><td align=left>
+</table>
+
+New Club table
+<table class="sample">
+<tbody><tr><th style="width:70px">Year</th><th style="width:50px">Spot<th style="width:50px">Entry<th style="width:40px">Q1<th style="width:40px">Q2<th style="width:40px">Q3<br><span style="background-color:orange">EQ1<th class=e1 style="width:40px">EQ2<th style="width:60px">Q Pts<th style="width:100px">League Stage<th style="width:60px">Rank Bonus<th style="width:50px">R16<th style="width:50px">QF<th style="width:50px">SF<th style="width:50px">Final<th style="width:50px">Round Bonus<th style="width:100px">Team Total</th>
+<tr><th>2025-26<td>1<td>C1<td>P	<td colspan=2><td>	<i>0.5		<td colspan=7>		<td><i>0.5
+</table>
+
+Update all knockout round 5-point to WL breakdowns.

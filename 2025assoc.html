@@ -1,4 +1,4 @@
-<html><head>
+<html><head>	
 <meta http-equiv="content-type" content="text/html; charset=windows-1252"><style type="text/css">
 table.sample {
 	border-collapse: collapse;
@@ -15,19 +15,21 @@ table.sample td {
 	border-style: inset;
 
 }
-.w {background-color: gold}
+.ch {background-color: gold}
 .ru {background-color: silver}
 .sf {background-color: tan}
-.qf {background-color: lightblue}
+.qf {background-color: cyan}
 .two {background-color: yellow}
-.three {background-color: lightgreen}
-.gs {background-color: lightgreen}
-.c2 {background-color: royalblue}
-.c1 {background-color: deepskyblue}
-.l2 {background-color: lightcoral}
-.l1 {background-color: lightpink}
-.c0 {background-color: powderblue}
-.m1 {background-color: plum}
+.thr {background-color: lightgreen}
+.ban {background-color: red}
+.main {background-color: lightblue}
+.c2 {background-color: forestgreen}
+.c1 {background-color: springgreen}
+.c0 {background-color: lightgreen}
+.l2 {background-color: mediumpurple}
+.l1 {background-color: violet}
+.e1 {background-color: orange}
+.la {background-color: yellow}
 
 body {margin:10px;}
 </style>
@@ -36,11 +38,11 @@ body {margin:10px;}
 </head>
 <body><h2>Association Coefficients for the 2024-25 UEFA Women's Champions League</h2>
 
-[ <b>General Information:</b> <a href="index.html">Main</a> | <a href="assocrank.html">Assoc Rank</a> | <a href="teamrank.html">Team Rank</a> | <a href="coefficient.html">Calculation</a> ]
-[ <b>2024-25</b>: <a href="2025qual.html">Qualifying</a> | <a href="2025prelim.html">Rds 1 & 2</a> | <a href="2025group.html">Group Stage</a> | <a href="2025ko.html">Knockout</a> | <a href="2025assoc.html">Assoc Coeffs</a> ]<p>
+[ <b>General Information:</b> <a href="index.html">Main</a> | <a href="assocrank.html">Assoc Rank</a> | <a href="clubrank.html">Club Rank</a> | <a href="coefficient.html">Calculation</a> | <a href="archive.html">Archive</a> ]
+[ <b>2024-25</b>: <a href="2025entry.html">Entry</a> | <a href="2025qual.html">Rds 1 & 2</a> | <a href="2025group.html">Group Stage</a> | <a href="2025ko.html">Knockout</a> | <a href="2025assoc.html">Assoc Coeffs</a> | <a href="2025money.html">Money</a> ]<p>
 
 This page illustrates the calculation of each team and each association's score for the 2024-25 UWCL season. <p>
-Updated through Group Stage, Matchday 2B.
+Updated through Group Stage.
 
 <!--
 <tr><th rowspan=3>2023-24<td>1<td align=left class=ru>Lyon<td>GS<td colspan=2><td>4<td>4-2-0, 1st<td>11<td>5<td>5<td><i>P<td><i>25+<td rowspan=3>51+ / 3 =<br>17.000
@@ -48,42 +50,42 @@ Updated through Group Stage, Matchday 2B.
 -->
 <table class="sample">
 <tbody><tr><th style="width:50px">A Rk</th><th style="width:70px">Assoc</th><th style="width:50px">Spot<th style="width:150px">Team<th style="width:50px">Entry<th style="width:50px">R1<th style="width:50px">R2<th style="width:60px">Q Pts<th style="width:100px">Group Stage<th style="width:60px">GS Pts<th style="width:40px">QF<th style="width:40px">SF<th style="width:50px">Final<th style="width:100px">Team Total</th><th style="width:100px">Assoc Average</tr>
-<tr><th rowspan=3>1<td rowspan=3>ENG	<td>1<td align=left>Chelsea		<td>GS	<td colspan=2>	<td>4	<td>2-0-0<td>4	<td colspan=3>	<td>8+	<td rowspan=3>22 / 3 = <br> 7.333
-<tr>					<td>2<td align=left>Manchester City	<td>L2	<td><td>W	<td>4	<td>2-0-0<td>4	<td colspan=3>	<td>8+
-<tr>					<td>3<td align=left>Arsenal		<td>L1	<td>WW<td>W	<td>4	<td>1-0-1<td>2	<td colspan=3>	<td>6+
-<tr><th rowspan=3>2<td rowspan=3>ITA	<td>1<td align=left>Roma		<td>C2	<td><td>W	<td>4	<td>2-0-0<td>4	<td colspan=3>	<td>8+	<td rowspan=3>17 / 3 = <br> 5.666
-<tr>					<td>2<td align=left>Juventus		<td>L2	<td><td>W	<td>4	<td>1-0-1<td>2	<td colspan=3>	<td>6+
-<tr>					<td>3<td align=left>Fiorentina		<td>L1	<td>WW<td>L	<td>3	<td colspan=5>			<td>3
-<tr><th rowspan=3>3<td rowspan=3>FRA	<td>1<td align=left>Lyon		<td>GS	<td colspan=2>	<td>4	<td>2-0-0<td>4	<td colspan=3>	<td>8+	<td rowspan=3>14 / 3 = <br> 4.666
-<tr>					<td>2<td align=left>Paris St Germain	<td>L2	<td><td>L	<td>3	<td colspan=5>			<td>3
-<tr>					<td>3<td align=left>Paris FC		<td>L1	<td>WW<td>L	<td>3	<td colspan=5>			<td>3
-<tr><th rowspan=3>4<td rowspan=3>GER	<td>1<td align=left>Bayern Munich	<td>GS	<td colspan=2>	<td>4	<td>2-0-0<td>4	<td colspan=3>	<td>8+	<td rowspan=3>13.5 / 3 = <br> 4.500
-<tr>					<td>2<td align=left>Wolfsburg		<td>L2	<td><td>W	<td>4	<td>0-0-2<td>0	<td colspan=3>	<td>4+
-<tr>					<td>3<td align=left>Eintracht Frankfurt	<td>L1	<td>LW<td>	<td>1.5	<td colspan=5>			<td>1.5
-<tr><th rowspan=3>4<td rowspan=3>ESP	<td>1<td align=left>Barcelona		<td>GS	<td colspan=2>	<td>4	<td>1-0-1<td>2	<td colspan=3>	<td>6+	<td rowspan=3>13.5 / 3 = <br> 4.500
-<tr>					<td>2<td align=left>Real Madrid		<td>L2	<td><td>W	<td>4	<td>1-0-1<td>0	<td colspan=3>	<td>6+
-<tr>					<td>3<td align=left>Atletico Madrid	<td>L1	<td>LW<td>	<td>1.5	<td colspan=5>			<td>1.5
-<tr><th rowspan=2>6<td rowspan=2>NED	<td>1<td align=left>Twente		<td>C1	<td>WW<td>W	<td>4	<td>1-0-1<td>2	<td colspan=3>	<td>6+	<td rowspan=2>8 / 2 = <br> 4.000
-<tr>					<td>2<td align=left>Ajax		<td>L1	<td>WL<td>	<td>2	<td colspan=5>			<td>2
-<tr>	<th>6		<td>TUR		<td>1	<td align=left>Galatasaray	<td>C1	<td>WW<td>W	<td>4	<td>0-0-2<td>0	<td colspan=3>	<td>4+	<td> 4.000
-<tr><th rowspan=3>8<td rowspan=3>SWE	<td>1<td align=left>Hammarby		<td>C2	<td><td>W	<td>4	<td>1-0-1<td>2	<td colspan=3>	<td>6+	<td rowspan=3>10.5 / 3 = <br> 3.500
-<tr>					<td>2<td align=left>Hacken		<td>L2	<td><td>L	<td>3	<td colspan=5>			<td>3
-<tr>					<td>3<td align=left>Linkoping		<td>L1	<td>LW<td>	<td>1.5	<td colspan=5>			<td>1.5
-<tr><th rowspan=2>9<td rowspan=2>POR	<td>1<td align=left>Benfica		<td>C1	<td>WW<td>L	<td>3	<td colspan=5>			<td>3	<td rowspan=2>6 / 2 = <br> 3.000
-<tr>					<td>2<td align=left>Sporting Lisbon	<td>L1	<td>WW<td>L	<td>3	<td colspan=5>			<td>3
-<tr><th rowspan=2>9<td rowspan=2>NOR	<td>1<td align=left>Valerenga		<td>C1	<td>bW<td>W	<td>4	<td>0-0-2<td>0	<td colspan=3>	<td>4+	<td rowspan=2>6 / 2 = <br> 3.000
-<tr>					<td>2<td align=left>Rosenborg		<td>L1	<td>WL<td>	<td>2	<td colspan=5>			<td>2
-<tr>	<th>9		<td>SUI		<td>1	<td align=left>Servette		<td>C1	<td>WW<td>L	<td>3	<td colspan=5>			<td>3	<td> 3.000
-<tr>	<th>9		<td>SVN		<td>1	<td align=left>ZNK Mura		<td>C1	<td>WW<td>L	<td>3	<td colspan=5>			<td>3	<td> 3.000
-<tr>	<th>9		<td>CRO		<td>1	<td align=left>Osijek		<td>C1	<td>WW<td>L	<td>3	<td colspan=5>			<td>3	<td> 3.000
-<tr>	<th>9		<td>BEL		<td>1	<td align=left>Anderlecht	<td>C1	<td>WW<td>L	<td>3	<td colspan=5>			<td>3	<td> 3.000
+<tr><th rowspan=3>1<td rowspan=3>ENG	<td>1<td align=left>Chelsea	<td>GS	<td colspan=2>	<td>4	<td>6-0-0, 1st	<td>13<td>L<td colspan=2><td>17+ <td rowspan=3>49 / 3 = <br>16.333
+<tr>					<td>2<td align=left>Manchester City	<td>L2	<td><td>W	<td>4	<td>5-0-1, 1st	<td>11	<td>@<td colspan=2><td>17+
+<tr>					<td>3<td align=left>Arsenal		<td>L1	<td>WW<td>W	<td>4	<td>5-0-1, 1st	<td>11	<td>L<td colspan=2><td>15+
+<tr><th rowspan=3>2<td rowspan=3>ESP	<td>1<td align=left>Barcelona	<td>GS	<td colspan=2>	<td>4	<td>5-0-1, 2nd	<td>11	<td>W<td colspan=2><td>17+<td rowspan=3>33.5 / 3 = <br>11.166
+<tr>					<td>2<td align=left>Real Madrid		<td>L2	<td><td>W	<td>4	<td>4-0-2, 2nd	<td>9	<td>W<td colspan=2><td>15+
+<tr>					<td>3<td align=left>Atletico Madrid	<td>L1	<td>LW<td>	<td>1.5	<td colspan=5>				<td>1.5
+<tr><th rowspan=3>3<td rowspan=3>GER	<td>1<td align=left>Bayern Munich<td>GS	<td colspan=2>	<td>4	<td>4-1-1, 2nd	<td>10	<td>L<td colspan=2><td>14+<td rowspan=3>26.5 / 3 = <br> 8.833
+<tr>					<td>2<td align=left>Wolfsburg		<td>L2	<td><td>W	<td>4	<td>3-0-3, 2nd	<td>7	<td>Q<td colspan=2><td>11+
+<tr>					<td>3<td align=left>Eintracht Frankfurt	<td>L1	<td>LW<td>	<td>1.5	<td colspan=5>				<td>1.5
+<tr><th rowspan=3>4<td rowspan=3>FRA	<td>1<td align=left>Lyon	<td>GS	<td colspan=2>	<td>4	<td>6-0-0, 1st	<td>13	<td>W<td colspan=2>	<td>19+ <td rowspan=3>25 / 3 =<br>8.333
+<tr>					<td>2<td align=left>Paris St Germain	<td>L2	<td><td>L	<td>3	<td colspan=5>				<td>3
+<tr>					<td>3<td align=left>Paris FC		<td>L1	<td>WW<td>L	<td>3	<td colspan=5>				<td>3
+<tr><th rowspan=3>5<td rowspan=3>ITA	<td>1<td align=left>Roma		<td>C2	<td><td>W	<td>4	<td>3-0-3, 3rd	<td>6	<td colspan=3>	<td>10	<td rowspan=3>21 / 3 =<br>7.000
+<tr>					<td>2<td align=left>Juventus		<td>L2	<td><td>W	<td>4	<td>2-0-4, 3rd	<td>4	<td colspan=3>	<td>8
+<tr>					<td>3<td align=left>Fiorentina		<td>L1	<td>WW<td>L	<td>3	<td colspan=5>				<td>3
+<tr><th rowspan=2>6<td rowspan=2>NED	<td>1<td align=left>Twente		<td>C1	<td>WW<td>W	<td>4	<td>2-0-4, 3rd	<td>4	<td colspan=3>	<td>8	<td rowspan=2>10 / 2 =<br>5.000
+<tr>					<td>2<td align=left>Ajax		<td>L1	<td>WL<td>	<td>2	<td colspan=5>				<td>2
+<tr><th rowspan=3>7<td rowspan=3>SWE	<td>1<td align=left>Hammarby		<td>C2	<td><td>W	<td>4	<td>2-0-4, 3rd	<td>4	<td colspan=3>	<td>8<td rowspan=3>12.5 / 3 =<br>4.166
+<tr>					<td>2<td align=left>Hacken		<td>L2	<td><td>L	<td>3	<td colspan=5>				<td>3
+<tr>					<td>3<td align=left>Linkoping		<td>L1	<td>LW<td>	<td>1.5	<td colspan=5>				<td>1.5
+<tr>	<th>8		<td>TUR		<td>1	<td align=left>Galatasaray	<td>C1	<td>WW<td>W	<td>4	<td>0-0-6, 4th	<td>0	<td colspan=3>	<td>4	<td> 4.000
+<tr><th rowspan=2>9<td rowspan=2>NOR	<td>1<td align=left>Valerenga		<td>C1	<td>bW<td>W	<td>4	<td>0-1-5, 4th	<td>1	<td colspan=3>	<td>5	<td rowspan=2>7 / 2 = <br> 3.500
+<tr>					<td>2<td align=left>Rosenborg		<td>L1	<td>WL<td>	<td>2	<td colspan=5>				<td>2
+<tr><th rowspan=2>10<td rowspan=2>POR	<td>1<td align=left>Benfica		<td>C1	<td>WW<td>L	<td>3	<td colspan=5>				<td>3	<td rowspan=2>6 / 2 = <br> 3.000
+<tr>					<td>2<td align=left>Sporting Lisbon	<td>L1	<td>WW<td>L	<td>3	<td colspan=5>				<td>3
+<tr>	<th>10		<td>SUI		<td>1	<td align=left>Servette		<td>C1	<td>WW<td>L	<td>3	<td colspan=5>				<td>3	<td> 3.000
+<tr>	<th>10		<td>SVN		<td>1	<td align=left>ZNK Mura		<td>C1	<td>WW<td>L	<td>3	<td colspan=5>				<td>3	<td> 3.000
+<tr>	<th>10		<td>CRO		<td>1	<td align=left>Osijek		<td>C1	<td>WW<td>L	<td>3	<td colspan=5>				<td>3	<td> 3.000
+<tr>	<th>10		<td>BEL		<td>1	<td align=left>Anderlecht	<td>C1	<td>WW<td>L	<td>3	<td colspan=5>				<td>3	<td> 3.000
 
-<tr><th rowspan=2>15<td rowspan=2>AUT	<td>1<td align=left>St. Polten		<td>C1	<td>WW<td>W	<td>4	<td>0-0-2<td>0	<td colspan=3>	<td>4+	<td rowspan=2>5 / 2 = <br> 2.500
-<tr>					<td>2<td align=left>First Vienna	<td>L1	<td>LL<td>	<td>1	<td colspan=5>			<td>1
-<tr><th rowspan=2>15<td rowspan=2>SCO	<td>1<td align=left>Celtic		<td>C1	<td>WW<td>W	<td>4	<td>0-0-2<td>0	<td colspan=3>	<td>4+	<td rowspan=2>5 / 2 = <br> 2.500
-<tr>					<td>2<td align=left>Rangers		<td>L1	<td>LL<td>	<td>1	<td colspan=5>			<td>1
-<tr><th rowspan=2>15<td rowspan=2>CZE	<td>1<td align=left>Slavia Praha	<td>C2	<td><td>L	<td>3	<td colspan=5>			<td>3	<td rowspan=2>5 / 2 = <br> 2.500
-<tr>					<td>2<td align=left>Sparta Praha	<td>L1	<td>WL<td>	<td>2	<td colspan=5>			<td>2
+<tr><th rowspan=2>15<td rowspan=2>AUT	<td>1<td align=left>St. Polten		<td>C1	<td>WW<td>W	<td>4	<td>0-0-6, 4th	<td>0	<td colspan=3>	<td>4	<td rowspan=2>5 / 2 = <br> 2.500
+<tr>					<td>2<td align=left>First Vienna	<td>L1	<td>LL<td>	<td>1	<td colspan=5>				<td>1
+<tr><th rowspan=2>15<td rowspan=2>SCO	<td>1<td align=left>Celtic		<td>C1	<td>WW<td>W	<td>4	<td>0-0-6, 4th	<td>0	<td colspan=3>	<td>4	<td rowspan=2>5 / 2 = <br> 2.500
+<tr>					<td>2<td align=left>Rangers		<td>L1	<td>LL<td>	<td>1	<td colspan=5>				<td>1
+<tr><th rowspan=2>15<td rowspan=2>CZE	<td>1<td align=left>Slavia Praha	<td>C2	<td><td>L	<td>3	<td colspan=5>				<td>3	<td rowspan=2>5 / 2 = <br> 2.500
+<tr>					<td>2<td align=left>Sparta Praha	<td>L1	<td>WL<td>	<td>2	<td colspan=5>				<td>2
 
 <tr><th>A Rk</th><th>Assoc</th>		<th>Spot<th>Team		<th>Entry<th>R1<th>R2<th>Q Pts<th>Group Stage<th>GS Pts<th>QF<th>SF<th>Final<th>Team Total</th><th>Assoc Average</tr>
 
